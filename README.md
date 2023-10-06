@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**marcosnasp/marcosnasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Marcos Portela
 
-Here are some ideas to get you started:
+Software engineer with a passion for building innovative and user-friendly applications. I have experience with a variety of programming languages and technologies, including Java, Python and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Programming languages: Java, Python, Spring Boot
+* Technologies: Docker, MySQL, PostgreSQL
+* Other skills: DevOps, CI/CD
+
+## Contact
+
+* LinkedIn: [marcosnasp](https://www.linkedin.com/in/marcos-portela-854a5879)
+
+## Contributions
+
+I am always looking for new and interesting projects to contribute to. If you have any ideas, please feel free to contact me.
